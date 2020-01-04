@@ -14,3 +14,5 @@ This repository contains data analysis and machine learning reports,  Rmarkdown,
 
 5: Geospatial risk modeling - the case of narcotics crime
 (Rmarkdown report)
+
+* For Rmarkdown, please download the .html file first and open it with browser.
